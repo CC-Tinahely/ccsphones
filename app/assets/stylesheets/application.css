@@ -1,0 +1,146 @@
+.headSec {
+    min-height: 7px;
+    background-color: #ff8000;
+    width: 100%;
+    margin-bottom: 5px;
+    overflow: auto;
+}
+
+.headSec h1 {
+    color: #006600;
+    font-size: 25px;
+    font-family: "Courier New", Courier, monospace;
+    padding:3px;
+    
+}
+
+ul { 
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ff3300;
+    font-size: 18px;
+    font-family: "Courier New", Courier, monospace;
+    
+}
+
+li {float:left;}
+
+li a {
+    display: block;
+    color: #006600;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+    padding: 7px 7px;
+    text-decoration: none;
+}
+
+.mainCont {
+    
+    margin: auto;
+    width: 80%;
+    border: 5px solid #ffb380;
+    font-size: 18px;
+    font-family: "Courier New", Courier, monospace;
+    padding: 5px;
+    text-align: center;
+}
+
+.welcomeIm {width: 20%;}
+
+.foot {    min-height: 80px;
+background-color: #006600;    
+width: 100%;    
+margin-top: 10px;
+font-size: 15px;
+font-family: "Courier New", Courier, monospace;
+overflow: auto;        
+    
+}
+
+#itemsContainer {
+    width: 100%;
+    text-align: center;
+    
+    
+    
+}
+
+
+#itemsContainer h1 {
+   display: block;
+    color: #006600;
+    text-align: center;
+    font-size: 15px;
+    font-family: "Courier New", Courier, monospace;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+    
+}
+
+
+.itemhols {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    display: inline-block;
+    width: 22%;
+    padding:10px;
+    min-height: 300px;
+   
+}
+
+
+.itemhols h1 {
+   display: block;
+    color: #006600;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Courier New", Courier, monospace;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px
+    
+}
+
+
+.itemhols p {
+   display: block;
+    color: #black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "Courier New", Courier, monospace;
+    
+}
+
+
+
+.itemholsIm {
+    width: 30%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    display: block;
+    
+}
+
+
+.button {
+    background-color: #006600;
+    border: none;
+    color: #ff3300;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: "Courier New", Courier, monospace;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+
